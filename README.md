@@ -5,9 +5,7 @@ Copy and paste NG8SpringBootJWT-Frontend in the frontend folder
 You should have the following structure : 
 Projet NG8SpringBootJWT (parent maven  project)
         Backend contain the NG8SpringBootJWT-Backend 
-               
         Frontend contain the NG8SpringBootJWT-Frontend
-        
         pom.xml
 Import the project in your IDE 
  Run Mvn install on the frontend project 
